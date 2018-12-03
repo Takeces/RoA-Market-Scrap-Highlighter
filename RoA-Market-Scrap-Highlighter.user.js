@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Highlighting weapons and armor market listings: cheaper then their scrap crafting material value => green ; more expensive then their scrap crafting material value => red .
-// @author       Akerus
+// @author       Akerus aka Takeces
 // @match        https://*.avabur.com/game*
 // @grant        GM_addStyle
 // ==/UserScript==
